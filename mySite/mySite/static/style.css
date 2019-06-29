@@ -1,0 +1,12 @@
+h2 {
+    color: #5c6bc0;
+    font-size: 50;
+}
+
+a {
+    color: red;
+}
+body {
+    text-align: center;
+    background-image: linear-gradient(to left,rgba(6, 193, 250, 0.308), rgba(255, 113, 113, 1));
+}
